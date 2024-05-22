@@ -31,5 +31,6 @@ function dfs(graph, startNode) {
 }
     let pathLength = dfs(graph, 'A', 'C');
     console.log("Length of path from A to C: " + pathLength);
+
 // Добавлен комментарий
 // еще
